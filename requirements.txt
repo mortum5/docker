@@ -1,4 +1,5 @@
 setuptools
+wget
 wheel
 SpeechRecognition
 pocketsphinx
