@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "$@" > input.txt
+echo $arr > input.txt
